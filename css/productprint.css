@@ -1,0 +1,131 @@
+@CHARSET "UTF-8";
+/*** Stylesheet for ProductPrint v 1.0 ***/
+
+
+	p {
+		margin:0 0 20px 0;
+	}
+
+
+	#container {
+
+	}
+
+
+	#productprint-main-image {
+		position: relative;
+		width: auto; /* optional */
+		height: auto; /* optional */
+		background: #fff;
+	}
+
+
+	/*** add styling for the image gallery section ***/
+	#thumbnails { 
+		clear:both;
+		overflow:hidden;
+	}
+
+
+	#thumbnails img {
+		vertical-align: top;
+		margin-right: 10px; 	/*** add a little padding around the gallery images ***/
+		margin-bottom: 10px;
+	}
+	
+	
+	#productprint-title {
+	}
+
+
+	#productprint-price, #productprint-stock {
+		font-size:16px;
+	}
+
+
+	#productprint-sku {
+		font-size:9px !important;
+		padding-bottom: 10px !important;
+	}
+
+
+	#productprint-short-description {
+		font-size:20px;
+	}
+
+
+	#productprint-description {
+		font-size:18px;
+	}
+	
+
+	.productprint-noreviews {
+		font-size:14px;
+		font-style: italic;
+	}
+
+
+	#productprint-reviews {
+		
+	}
+
+
+	.showborder { /*** add featured image border styling here ***/
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		border: 1px solid #bbb;
+	}
+
+	.galleryborder { /*** add gallery image border styling here ***/
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
+		border: 1px solid #bbb;
+	}
+
+	.shop_attributes {
+		margin-bottom: 2em;
+		margin-top: 1em;
+		width: 100%;
+	}
+
+	table, td, th { /*** add table of attributes styling here ***/
+    		border: 1px solid #bbb;
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
+	}
+
+	td, th {
+		padding-top: 1.5em;
+		vertical-align: top;
+	}
+
+	td {
+		padding-left: 10px;
+	}
+
+
+	.star-rating {
+    		float: right;
+    		overflow: hidden;
+    		position: relative;
+    		height: 1em;
+    		line-height: 1em;
+    		font-size: 1em;
+    		width: 5.4em;
+    		font-family: "star";
+	}
+
+	.star-rating:before, .woocommerce-page .star-rating:before{color:#ffffff;}
+	.star-rating span, .woocommerce-page .star-rating span{color:#ffffff}
+
+
+
+@media screen
+{
+	#container {
+		display:none !important;
+	}
+}
