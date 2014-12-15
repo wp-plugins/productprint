@@ -39,6 +39,7 @@ To do an automatic install of ProductPrint, log in to your WordPress dashboard, 
 
 1. The print button added to the single product page.
 2. The dashboard settings page.
+3. Sample print-out.
 
 == Changelog ==
 
