@@ -10,7 +10,7 @@ Requires at least: 3.5
 Tested up to: 4.0.1
 Stable tag: trunk
 
-WooCommerce extension to create printer-friendly product pages. Adds a Print button to the single product page. Extraneous information e.g. sidebars are not printed.
+WooCommerce extension to create printer-friendly product pages. Adds a Print button to the single product page.
 
 == Description ==
 
