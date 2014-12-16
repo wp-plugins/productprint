@@ -1,0 +1,208 @@
+# Copyright (C) 2014 ProductPrint
+# This file is distributed under the same license as the ProductPrint package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ProductPrint 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/productprint\n"
+"POT-Creation-Date: 2014-12-16 11:41:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  plugin.pot (ProductPrint 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: productprint.php:157
+msgid "ProductPrint"
+msgstr ""
+
+#: productprint.php:237
+msgid "Your ProductPrint Settings"
+msgstr ""
+
+#: productprint.php:246
+msgid "Upgrade to ProductPrint Pro"
+msgstr ""
+
+#: productprint.php:254
+msgid "Upgrade to the Pro Version"
+msgstr ""
+
+#: productprint.php:313
+msgid "Print button"
+msgstr ""
+
+#: productprint.php:322
+msgid "Position on the page"
+msgstr ""
+
+#: productprint.php:326
+msgid "Before product"
+msgstr ""
+
+#: productprint.php:328
+msgid "Before product title"
+msgstr ""
+
+#: productprint.php:330
+msgid "After product title"
+msgstr ""
+
+#: productprint.php:332
+msgid "After product price"
+msgstr ""
+
+#: productprint.php:334
+msgid "After short description"
+msgstr ""
+
+#: productprint.php:336
+msgid "After add to cart button"
+msgstr ""
+
+#: productprint.php:338
+msgid "After product"
+msgstr ""
+
+#: productprint.php:342
+msgid "Label for the button"
+msgstr ""
+
+#: productprint.php:354
+msgid "Featured Image Settings"
+msgstr ""
+
+#: productprint.php:362
+msgid "Show featured image?"
+msgstr ""
+
+#: productprint.php:362 productprint.php:396 productprint.php:421
+#: productprint.php:428
+msgid "Yes"
+msgstr ""
+
+#: productprint.php:365 productprint.php:401 productprint.php:424
+#: productprint.php:433
+msgid "No"
+msgstr ""
+
+#: productprint.php:369 productprint.php:373
+msgid "Position"
+msgstr ""
+
+#: productprint.php:385 productprint.php:413
+msgid ""
+"Append either px or % to the width. The height will scale in proportion."
+msgstr ""
+
+#: productprint.php:386
+msgid "Width"
+msgstr ""
+
+#: productprint.php:387
+msgid "Append either px or % to the margin values."
+msgstr ""
+
+#: productprint.php:388
+msgid "Left margin"
+msgstr ""
+
+#: productprint.php:390
+msgid "Right margin"
+msgstr ""
+
+#: productprint.php:392
+msgid "Top margin"
+msgstr ""
+
+#: productprint.php:394
+msgid "Bottom margin"
+msgstr ""
+
+#: productprint.php:396
+msgid "Show border?"
+msgstr ""
+
+#: productprint.php:412
+msgid "Gallery Options"
+msgstr ""
+
+#: productprint.php:421
+msgid "Show gallery?"
+msgstr ""
+
+#: productprint.php:426
+msgid "Gallery Image Width"
+msgstr ""
+
+#: productprint.php:428
+msgid "Show borders?"
+msgstr ""
+
+#: productprint.php:444
+msgid "Printer font"
+msgstr ""
+
+#: productprint.php:446
+msgid "Font Family"
+msgstr ""
+
+#: productprint.php:450
+msgid "font family"
+msgstr ""
+
+#: tpl-print.php:229 tpl-print.php:234
+msgid "SKU: "
+msgstr ""
+
+#: tpl-print.php:266
+msgid "Product Description"
+msgstr ""
+
+#: tpl-print.php:281
+msgid "Additional Information"
+msgstr ""
+
+#: tpl-print.php:361
+msgid "Reviews"
+msgstr ""
+
+#: tpl-print.php:376
+msgid "out of 5"
+msgstr ""
+
+#: tpl-print.php:379
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tpl-print.php:398
+msgid "There are no reviews yet."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://productprintpro.com/productprint"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WooCommerce extension to create printer-friendly product pages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Togethernet"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://togethernet.ltd.uk"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid ""
+"WooCommerce, print, product, cart, commerce, configurable, e-commerce, "
+"ecommerce, print button, print friendly, printer, printer friendly, "
+"printing, printout, reports, sales, sell, shop, shopping, store, woo "
+"commerce, wordpress ecommerce"
+msgstr ""
