@@ -2,13 +2,13 @@
 /**
  * Plugin Name: ProductPrint
  * Author URI: http://togethernet.ltd.uk
- * Plugin URI: http://togethernet.ltd.uk
+ * Plugin URI: http://productprintpro.com/productprint
  * Description: WooCommerce extension to create printer-friendly product pages.
  * Version: 1.0
  * Author: Togethernet
  * License: GPLv2
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
- * Tags: WooCommerce, print, product
+ * Tags: WooCommerce, print, product, cart, commerce, configurable, e-commerce, ecommerce, print button, print friendly, printer, printer friendly, printing, printout, reports, sales, sell, shop, shopping, store, woo commerce, wordpress ecommerce
  * Requires at least: 3.5
  * Tested up to: 4.01
  * 
