@@ -1,4 +1,4 @@
-=== ProductPrint ===
+=== WooCommerce ProductPrint ===
 Contributors: kenrichman
 Tags: ecommerce, e-commerce, commerce, woo commerce, woo commerce, woo-commerce, wordpress ecommerce, store, sales, sell, shop, shopping, cart, configurable, reports, print, printing, printer, print button, printer friendly, print friendly, printout
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WLA6U8VXF4WUW
