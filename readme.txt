@@ -1,14 +1,14 @@
 === WooCommerce ProductPrint ===
 Contributors: kenrichman
-Tags: ecommerce, e-commerce, commerce, woo commerce, woo commerce, woo-commerce, wordpress ecommerce, store, sales, sell, shop, shopping, cart, configurable, reports, print, printing, printer, print button, printer friendly, print friendly, printout
+Tags: productprint, product print, print product, product, ecommerce, e-commerce, commerce, woo commerce, woocommerce, woo-commerce, wordpress ecommerce, store, sales, sell, shop, shopping, cart, configurable, reports, print, printing, printer, print button, printer friendly, print friendly, printer-friendly, printout
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WLA6U8VXF4WUW
 Plugin URI: http://productprintpro.com/productprint
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Version: 1.0
+Version: 1.1
 Requires at least: 3.5
-Tested up to: 4.0.1
-Stable tag: trunk
+Tested up to: 4.1
+Stable tag: 1.1
 
 WooCommerce extension to create printer-friendly product pages. Adds a Print button to the single product page.
 
@@ -42,6 +42,16 @@ To do an automatic install of ProductPrint, log in to your WordPress dashboard, 
 3. Sample print-out.
 
 == Changelog ==
+
+= Version 1.1 =
+
+Bugfix: added test for presence of variant images to prevent warnings about missing variant images appearing in print-out, if variants don't have variant images.
+
+Name changed in readme.txt from ProductPrint to WooCommerce ProductPrint
+
+Added .pot file for translation
+
+Tested compatible with WordPress 4.1 and updated readme.txt accordingly
 
 = Version 1.0 =
 

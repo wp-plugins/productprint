@@ -1,6 +1,6 @@
 <?php 
 
-/*** ProductPrint v 1.0 tpl-print.php ***/
+/*** ProductPrint v 1.1 tpl-print.php ***/
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
@@ -160,7 +160,10 @@ jQuery(function($)
 				    if(isset($_REQUEST['variation_id']) && $_REQUEST['variation_id']>0 )
                     {
     				    $src=$variation_array['image_src'];
+						/*** we could have variations but no images for them so before calling getImageSize, check $src is not null ***/
+					if (!empty($src)) {
     					list($w, $h)=getImageSize($src);
+						}
                     }
 					if($w>0 && $h>0){}else
 					{

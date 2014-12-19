@@ -4,7 +4,7 @@
  * Author URI: http://togethernet.ltd.uk
  * Plugin URI: http://productprintpro.com/productprint
  * Description: WooCommerce extension to create printer-friendly product pages.
- * Version: 1.0
+ * Version: 1.1
  * Author: Togethernet
  * License: GPLv2
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
