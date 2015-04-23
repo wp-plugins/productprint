@@ -7,7 +7,7 @@ License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Version: 1.1
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.1
 
 WooCommerce extension to create printer-friendly product pages. Adds a Print button to the single product page.
